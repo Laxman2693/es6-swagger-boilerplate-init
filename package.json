@@ -1,0 +1,38 @@
+{
+  "name": "es6-swagger-boilerplate-init",
+  "version": "0.0.9",
+  "description": "A simple cli for es6 node swagger boilerplate",
+  "main": "index.js",
+  "bin": {
+    "es6-swagger-boilerplate": "./index.js"
+  },
+  "dependencies": {
+    "prompts": "^2.0.0",
+    "shelljs": "^0.8.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "cli",
+    "node cli",
+    "scaffold",
+    "scaffolding",
+    "boilerplate",
+    "shopify",
+    "shopify apps",
+    "shopify api"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laxman2693/es6-swagger-boilerplate.git"
+  },
+  "author": "Laxman Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laxman2693/es6-swagger-boilerplate.git/issues"
+  },
+  "homepage": "https://github.com/Laxman2693/es6-swagger-boilerplate.git#readme"
+}
